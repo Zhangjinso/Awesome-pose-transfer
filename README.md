@@ -14,3 +14,4 @@ Li et al. | CVPR 19 | [Dense Intrinsic Appearance Flow for Human Pose Transfer](
 LWG | ICCV 19 | [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.pdf) | [Pytorch](https://github.com/svip-lab/impersonator)
 GFLA | CVPR 20 | [Deep Image Spatial Transformation for Person Image Generation](https://arxiv.org/abs/2003.00696) | [Pytorch](https://github.com/RenYurui/Global-Flow-Local-Attention)
 Men et al. | CVPR 20 | [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://arxiv.org/abs/2003.12267) | [Pytorch](https://github.com/menyifang/ADGAN)
+Pose Stylizer | IJCAI 20 | [Generating Person Images with Appearance-aware Pose Stylizer](https://arxiv.org/pdf/2007.09077.pdf) | [pytorch](https://github.com/siyuhuang/PoseStylizer)
