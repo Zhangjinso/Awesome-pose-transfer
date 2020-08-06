@@ -21,11 +21,14 @@ XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/
 # Other paper
 ## CVPR 2020
 [Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/abs/2004.05571)
+
 [Wish YouWere Here: Context-Aware Human Generation](https://arxiv.org/abs/2005.10663)
+
 ## ECCV 2020
 [Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
 
 
 ## arxiv
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
+
 [Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild](https://arxiv.org/pdf/2007.15068.pdf)
