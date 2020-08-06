@@ -19,4 +19,5 @@ XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/
 
 # Other paper
 
+[ECCV 20 Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
 [Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild](https://arxiv.org/pdf/2007.15068.pdf)
