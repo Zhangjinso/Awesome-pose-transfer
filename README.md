@@ -21,7 +21,6 @@ XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/
 
 # Other paper
 ## CVPR 2020
-[Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/abs/2004.05571)
 
 [Wish YouWere Here: Context-Aware Human Generation](https://arxiv.org/abs/2005.10663)
 
