@@ -33,3 +33,5 @@ XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
 
 [Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild](https://arxiv.org/pdf/2007.15068.pdf)
+
+[Pose-Guided High-Resolution Appearance Transfer via Progressive Training](https://arxiv.org/pdf/2008.11898.pdf)
