@@ -18,7 +18,9 @@ GFLA | CVPR 20 | [Deep Image Spatial Transformation for Person Image Generation]
 ADGan | CVPR 20 | [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://arxiv.org/abs/2003.12267) | [Pytorch](https://github.com/menyifang/ADGAN)
 CoCosNet | CVPR 20 | [Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/abs/2004.05571) | [Pytorch](https://github.com/microsoft/CoCosNet)
 Pose Stylizer | IJCAI 20 | [Generating Person Images with Appearance-aware Pose Stylizer](https://arxiv.org/pdf/2007.09077.pdf) | [pytorch](https://github.com/siyuhuang/PoseStylizer)
-XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/2007.09278) | [code](https://github.com/Ha0Tang/XingGAN)
+PINet | PG 20| [Human Pose Transfer by Adaptive Hierarchical Deformation]() | [pytorch](https://github.com/Zhangjinso/PINet_PG)
+XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/2007.09278) | [pytorch](https://github.com/Ha0Tang/XingGAN)
+LWG | TPAMI 20 | [Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis](https://arxiv.org/abs/2011.09055v1) | [pytorch](https://github.com/iPERDance/iPERCore))
 
 # Other paper
 ## CVPR 2020
@@ -28,6 +30,8 @@ XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/
 ## ECCV 2020
 [Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
 
+## AAAI 2021 
+[Structure-aware Person Image Generation with Pose Decomposition and Semantic Correlation]()
 
 ## arxiv
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
