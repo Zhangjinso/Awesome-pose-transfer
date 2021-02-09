@@ -40,4 +40,4 @@ LWG | TPAMI 20 | [Liquid Warping GAN with Attention: A Unified Framework for Hum
 
 [Pose-Guided High-Resolution Appearance Transfer via Progressive Training](https://arxiv.org/pdf/2008.11898.pdf)
 
-[CharacterGAN: Few-Shot Keypoint Character Animation and Reposing](https://arxiv.org/abs/2102.03141) [code](https://github.com/tohinz/CharacterGAN)
+[CharacterGAN: Few-Shot Keypoint Character Animation and Reposing](https://arxiv.org/abs/2102.03141) | **[code]**(https://github.com/tohinz/CharacterGAN)
