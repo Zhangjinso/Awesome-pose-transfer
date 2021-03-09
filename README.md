@@ -17,6 +17,7 @@ BiGraphGAN | BMVC 20 | [Bipartite Graph Reasoning GANs for Person Image Generati
 GFLA | CVPR 20 | [Deep Image Spatial Transformation for Person Image Generation](https://arxiv.org/abs/2003.00696) | [Pytorch](https://github.com/RenYurui/Global-Flow-Local-Attention)
 ADGan | CVPR 20 | [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://arxiv.org/abs/2003.12267) | [Pytorch](https://github.com/menyifang/ADGAN)
 CoCosNet | CVPR 20 | [Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/abs/2004.05571) | [Pytorch](https://github.com/microsoft/CoCosNet)
+Repose | CVPRW 20 | [Reposing Humans by Warping 3D Features](https://arxiv.org/pdf/2006.04898.pdf) | [Tensorflow](https://github.com/MKnoche/warp3d_reposing/blob/master/train.py)
 Pose Stylizer | IJCAI 20 | [Generating Person Images with Appearance-aware Pose Stylizer](https://arxiv.org/pdf/2007.09077.pdf) | [pytorch](https://github.com/siyuhuang/PoseStylizer)
 PINet | PG 20| [Human Pose Transfer by Adaptive Hierarchical Deformation]() | [pytorch](https://github.com/Zhangjinso/PINet_PG)
 XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/2007.09278) | [pytorch](https://github.com/Ha0Tang/XingGAN)
