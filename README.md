@@ -32,8 +32,13 @@ PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](ht
 ## ECCV 2020
 [Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
 
-## AAAI 2021 
+## AAAI 2020
 [Structure-aware Person Image Generation with Pose Decomposition and Semantic Correlation]()
+
+## CVPR 2021
+[Pose-Guided Human Animation from a Single Image in the Wild](https://arxiv.org/pdf/2012.03796.pdf)
+
+[HumanGAN: A Generative Model of Human Images]()
 
 ## arxiv
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
@@ -43,3 +48,5 @@ PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](ht
 [Pose-Guided High-Resolution Appearance Transfer via Progressive Training](https://arxiv.org/pdf/2008.11898.pdf)
 
 [CharacterGAN: Few-Shot Keypoint Character Animation and Reposing](https://arxiv.org/abs/2102.03141) | [**Pytorch**](https://github.com/tohinz/CharacterGAN)
+
+[Style and Pose Control for Image Synthesis of Humans from a Single Monocular View](https://arxiv.org/pdf/2102.11263.pdf)
