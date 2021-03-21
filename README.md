@@ -50,3 +50,10 @@ PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](ht
 [CharacterGAN: Few-Shot Keypoint Character Animation and Reposing](https://arxiv.org/abs/2102.03141) | [**Pytorch**](https://github.com/tohinz/CharacterGAN)
 
 [Style and Pose Control for Image Synthesis of Humans from a Single Monocular View](https://arxiv.org/pdf/2102.11263.pdf)
+
+# Animation
+
+ToG 19 [Neural Animation and Reenactment of Human Actor Videos](https://arxiv.org/abs/1809.03658)
+
+TVCG 20 [Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation](https://arxiv.org/pdf/2001.04947.pdf)
+
