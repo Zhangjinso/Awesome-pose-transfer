@@ -51,6 +51,8 @@ PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](ht
 
 [Style and Pose Control for Image Synthesis of Humans from a Single Monocular View](https://arxiv.org/pdf/2102.11263.pdf)
 
+[Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization](https://arxiv.org/abs/2105.14739)
+
 # Animation
 
 ToG 19 [Neural Animation and Reenactment of Human Actor Videos](https://arxiv.org/abs/1809.03658)
