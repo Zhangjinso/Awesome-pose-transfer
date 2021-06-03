@@ -54,6 +54,8 @@ RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive No
 
 [Dressing in Order: Recurrent Person Image Generation for Pose Transfer,Virtual Try-on and Outfit Editing](https://arxiv.org/pdf/2104.07021.pdf)
 
+[SPATIAL CONTENT ALIGNMENT FOR POSE TRANSFER](https://arxiv.org/pdf/2103.16828.pdf) | [**pytorch**](https://github.com/rocketappslab/SCA-GAN)
+
 [Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization](https://arxiv.org/abs/2105.14739)
 
 # Animation
