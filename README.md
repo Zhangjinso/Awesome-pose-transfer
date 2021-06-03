@@ -23,6 +23,7 @@ PINet | PG 20| [Human Pose Transfer by Adaptive Hierarchical Deformation]() | [p
 XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/2007.09278) | [pytorch](https://github.com/Ha0Tang/XingGAN)
 LWG | TPAMI 20 | [Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis](https://arxiv.org/abs/2011.09055v1) | [pytorch](https://github.com/iPERDance/iPERCore)
 PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023) | [pytorch](https://github.com/Zhangjinso/PISE)
+RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive Normalization]()| [pytorch](https://github.com/cszy98/SPGNet)
 
 # Other paper
 ## CVPR 2020
