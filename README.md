@@ -33,13 +33,16 @@ RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive No
 ## ECCV 2020
 [Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
 
-## AAAI 2020
-[Structure-aware Person Image Generation with Pose Decomposition and Semantic Correlation]()
+## AAAI 2021
+[Structure-aware Person Image Generation with Pose Decomposition and Semantic Correlation](https://arxiv.org/pdf/2102.02972.pdf)
 
 ## CVPR 2021
 [Pose-Guided Human Animation from a Single Image in the Wild](https://arxiv.org/pdf/2012.03796.pdf)
 
 [HumanGAN: A Generative Model of Human Images]()
+
+## ICIP 2020 
+[POSE GUIDED PERSON IMAGE GENERATION WITH HIDDEN P-NORM REGRESSION](https://arxiv.org/pdf/2102.10033.pdf)
 
 ## arxiv
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
