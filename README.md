@@ -22,6 +22,7 @@ Pose Stylizer | IJCAI 20 | [Generating Person Images with Appearance-aware Pose 
 PINet | PG 20| [Human Pose Transfer by Adaptive Hierarchical Deformation]() | [pytorch](https://github.com/Zhangjinso/PINet_PG)
 XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/2007.09278) | [pytorch](https://github.com/Ha0Tang/XingGAN)
 LWG | TPAMI 20 | [Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis](https://arxiv.org/abs/2011.09055v1) | [pytorch](https://github.com/iPERDance/iPERCore)
+SCAGAN | ICME 21|[SPATIAL CONTENT ALIGNMENT FOR POSE TRANSFER](https://arxiv.org/pdf/2103.16828.pdf) |[Pytorch](https://github.com/rocketappslab/SCA-GAN)
 PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023) | [pytorch](https://github.com/Zhangjinso/PISE)
 RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive Normalization]()| [pytorch](https://github.com/cszy98/SPGNet)
 FGTBN | CVPR 21 | [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/pdf/2106.07771.pdf) | 
