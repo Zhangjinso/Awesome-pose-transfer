@@ -24,6 +24,7 @@ XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/
 LWG | TPAMI 20 | [Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis](https://arxiv.org/abs/2011.09055v1) | [pytorch](https://github.com/iPERDance/iPERCore)
 PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023) | [pytorch](https://github.com/Zhangjinso/PISE)
 RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive Normalization]()| [pytorch](https://github.com/cszy98/SPGNet)
+FGTBN | CVPR 21 | [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/pdf/2106.07771.pdf) | 
 
 # Other paper
 ## CVPR 2020
@@ -45,6 +46,7 @@ RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive No
 [POSE GUIDED PERSON IMAGE GENERATION WITH HIDDEN P-NORM REGRESSION](https://arxiv.org/pdf/2102.10033.pdf)
 
 ## arxiv
+2021.06 [Robust Pose Transfer with Dynamic Details using Neural Video Rendering ](https://arxiv.org/pdf/2106.14132)
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
 
 [Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild](https://arxiv.org/pdf/2007.15068.pdf)
