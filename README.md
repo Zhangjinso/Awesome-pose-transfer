@@ -26,7 +26,7 @@ SCAGAN | ICME 21|[SPATIAL CONTENT ALIGNMENT FOR POSE TRANSFER](https://arxiv.org
 PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023) | [pytorch](https://github.com/Zhangjinso/PISE)
 RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive Normalization]()| [pytorch](https://github.com/cszy98/SPGNet)
 FGTBN | CVPR 21 | [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/pdf/2106.07771.pdf) | 
-| CVPR 21 | [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) | [pytorch](https://github.com/snap-research/articulated-animation)
+MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) | [pytorch](https://github.com/snap-research/articulated-animation)
 
 # Other paper
 ## CVPR 2020
