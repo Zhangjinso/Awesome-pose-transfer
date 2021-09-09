@@ -29,6 +29,10 @@ FGTBN | CVPR 21 | [Flow Guided Transformable Bottleneck Networks for Motion Reta
 MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) | [pytorch](https://github.com/snap-research/articulated-animation)
 
 # Other paper
+
+## Survey
+2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
+
 ## CVPR 2020
 
 [Wish YouWere Here: Context-Aware Human Generation](https://arxiv.org/abs/2005.10663)
@@ -48,6 +52,8 @@ MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxi
 [POSE GUIDED PERSON IMAGE GENERATION WITH HIDDEN P-NORM REGRESSION](https://arxiv.org/pdf/2102.10033.pdf)
 
 ## arxiv
+2021.08 [Combining Attention with Flow for Person Image Synthesis ](https://arxiv.org/pdf/2108.01823)
+2021.07 [Human Pose Transfer with Disentangled Feature Consistency](https://arxiv.org/pdf/2107.10984.pdf)
 2021.06 [Robust Pose Transfer with Dynamic Details using Neural Video Rendering ](https://arxiv.org/pdf/2106.14132)
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
 
