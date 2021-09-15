@@ -28,6 +28,7 @@ RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive No
 FGTBN | CVPR 21 | [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/pdf/2106.07771.pdf) | 
 MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) | [pytorch](https://github.com/snap-research/articulated-animation)
 Pose with style| SIGGRAPG ASIA 2021 | [Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN ](https://arxiv.org/pdf/2109.06166) | [project page](https://pose-with-style.github.io/) 
+SATT | TIP 2021 | [Spatial-Aware Texture Transformer for High-Fidelity Garment Transfer](https://ieeexplore.ieee.org/document/9525061) | 
 
 
 # Other paper
