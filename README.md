@@ -27,6 +27,8 @@ PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](ht
 RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive Normalization]()| [pytorch](https://github.com/cszy98/SPGNet)
 FGTBN | CVPR 21 | [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/pdf/2106.07771.pdf) | 
 MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) | [pytorch](https://github.com/snap-research/articulated-animation)
+Pose with style| SIGGRAPG ASIA 2021 | [Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN ](https://arxiv.org/pdf/2109.06166) | [project page](https://pose-with-style.github.io/) 
+
 
 # Other paper
 
@@ -53,8 +55,11 @@ MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxi
 
 ## arxiv
 2021.08 [Combining Attention with Flow for Person Image Synthesis ](https://arxiv.org/pdf/2108.01823)
+
 2021.07 [Human Pose Transfer with Disentangled Feature Consistency](https://arxiv.org/pdf/2107.10984.pdf)
+
 2021.06 [Robust Pose Transfer with Dynamic Details using Neural Video Rendering ](https://arxiv.org/pdf/2106.14132)
+
 [Unsupervised Pose Flow Learning for Pose Guided synthesis](https://arxiv.org/abs/1909.13819)
 
 [Unselfie: Translating Selfies to Neutral-pose Portraits in the Wild](https://arxiv.org/pdf/2007.15068.pdf)
