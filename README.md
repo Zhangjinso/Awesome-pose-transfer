@@ -37,25 +37,9 @@ PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](ht
 ## Survey
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
 
-## CVPR 2020
-
-[Wish YouWere Here: Context-Aware Human Generation](https://arxiv.org/abs/2005.10663)
-
-## ECCV 2020
-[Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
-
-## AAAI 2021
-[Structure-aware Person Image Generation with Pose Decomposition and Semantic Correlation](https://arxiv.org/pdf/2102.02972.pdf)
-
-## CVPR 2021
-[Pose-Guided Human Animation from a Single Image in the Wild](https://arxiv.org/pdf/2012.03796.pdf)
-
-[HumanGAN: A Generative Model of Human Images]()
-
-## ICIP 2020 
-[POSE GUIDED PERSON IMAGE GENERATION WITH HIDDEN P-NORM REGRESSION](https://arxiv.org/pdf/2102.10033.pdf)
-
 ## arxiv
+2021.09 [A 3D Mesh-based Lifting-and-Projection Network for Human Pose Transfer](https://arxiv.org/pdf/2109.11719)
+
 2021.08 [Combining Attention with Flow for Person Image Synthesis ](https://arxiv.org/pdf/2108.01823)
 
 2021.07 [Human Pose Transfer with Disentangled Feature Consistency](https://arxiv.org/pdf/2107.10984.pdf)
@@ -77,6 +61,26 @@ PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](ht
 [SPATIAL CONTENT ALIGNMENT FOR POSE TRANSFER](https://arxiv.org/pdf/2103.16828.pdf) | [**pytorch**](https://github.com/rocketappslab/SCA-GAN)
 
 [Controllable Person Image Synthesis with Spatially-Adaptive Warped Normalization](https://arxiv.org/abs/2105.14739)
+
+## CVPR 2020
+
+[Wish YouWere Here: Context-Aware Human Generation](https://arxiv.org/abs/2005.10663)
+
+## ECCV 2020
+[Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
+
+## AAAI 2021
+[Structure-aware Person Image Generation with Pose Decomposition and Semantic Correlation](https://arxiv.org/pdf/2102.02972.pdf)
+
+## CVPR 2021
+[Pose-Guided Human Animation from a Single Image in the Wild](https://arxiv.org/pdf/2012.03796.pdf)
+
+[HumanGAN: A Generative Model of Human Images]()
+
+## ICIP 2020 
+[POSE GUIDED PERSON IMAGE GENERATION WITH HIDDEN P-NORM REGRESSION](https://arxiv.org/pdf/2102.10033.pdf)
+
+
 
 # Animation
 
