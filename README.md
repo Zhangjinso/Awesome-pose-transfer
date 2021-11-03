@@ -30,7 +30,8 @@ MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxi
 Pose with style| SIGGRAPG ASIA 2021 | [Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN ](https://arxiv.org/pdf/2109.06166) | [project page](https://pose-with-style.github.io/) 
 SATT | TIP 2021 | [Spatial-Aware Texture Transformer for High-Fidelity Garment Transfer](https://ieeexplore.ieee.org/document/9525061) | 
 PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](https://ieeexplore.ieee.org/document/9524559) | 
-M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency| [project page](https://ps.is.mpg.de/research_projects/neural-rendering)
+M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency| [project page](https://ps.is.mpg.de/research_projects/neural-rendering)|
+- | ICCV 2021 | Structure-transformed Texture-enhanced Network for Person Image Synthesis| -
 
 
 # Other paper
