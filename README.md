@@ -40,6 +40,12 @@ M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic S
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
 
 ## arxiv
+2021.12 [FDA-GAN: Flow-based Dual Attention GAN for Human Pose Transfer ](https://arxiv.org/pdf/2112.00281)
+
+2021.12 [GLocal: Global Graph Reasoning and Local Structure Transfer for Person Image Generation](https://arxiv.org/pdf/2112.00263)
+
+2021.11 [Self-supervised Correlation Mining Network for Person Image Generation](https://arxiv.org/pdf/2111.13307)
+
 2021.09 [A 3D Mesh-based Lifting-and-Projection Network for Human Pose Transfer](https://arxiv.org/pdf/2109.11719)
 
 2021.08 [Combining Attention with Flow for Person Image Synthesis ](https://arxiv.org/pdf/2108.01823)
