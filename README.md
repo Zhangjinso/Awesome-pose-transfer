@@ -31,7 +31,7 @@ Pose with style| SIGGRAPG ASIA 2021 | [Pose with Style: Detail-Preserving Pose-G
 SATT | TIP 2021 | [Spatial-Aware Texture Transformer for High-Fidelity Garment Transfer](https://ieeexplore.ieee.org/document/9525061) | 
 PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](https://ieeexplore.ieee.org/document/9524559) | 
 M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency| [project page](https://ps.is.mpg.de/research_projects/neural-rendering)|
-- | ICCV 2021 | Structure-transformed Texture-enhanced Network for Person Image Synthesis| -
+- | ICCV 2021 | Structure-transformed Texture-enhanced Network for Person Image Synthesis| -|
 
 
 # Other paper
@@ -40,6 +40,7 @@ M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic S
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
 
 ## arxiv
+2022.02 [Multi-scale Attention Guided Pose Transfer](https://arxiv.org/pdf/2202.06777) [code](https://github.com/prasunroy/pose-transfer)
 2021.12 [FDA-GAN: Flow-based Dual Attention GAN for Human Pose Transfer ](https://arxiv.org/pdf/2112.00281)
 
 2021.12 [GLocal: Global Graph Reasoning and Local Structure Transfer for Person Image Generation](https://arxiv.org/pdf/2112.00263)
