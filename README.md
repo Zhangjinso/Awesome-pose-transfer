@@ -32,6 +32,7 @@ SATT | TIP 2021 | [Spatial-Aware Texture Transformer for High-Fidelity Garment T
 PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](https://ieeexplore.ieee.org/document/9524559) | 
 M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency| [project page](https://ps.is.mpg.de/research_projects/neural-rendering)|
 - | ICCV 2021 | Structure-transformed Texture-enhanced Network for Person Image Synthesis| -|
+DBT | CVPR 2022 | [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/pdf/2203.02910.pdf) | [Pytorch](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network)
 
 
 # Other paper
