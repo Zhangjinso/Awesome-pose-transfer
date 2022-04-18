@@ -32,6 +32,8 @@ SATT | TIP 2021 | [Spatial-Aware Texture Transformer for High-Fidelity Garment T
 PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](https://ieeexplore.ieee.org/document/9524559) | 
 M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency| [project page](https://ps.is.mpg.de/research_projects/neural-rendering)|
 DBT | CVPR 2022 | [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/pdf/2203.02910.pdf) | [Pytorch](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network)
+NTED | CVPR 2022 | [Neural Texture Extraction and Distribution for ControllablePerson Image Synthesis](https://arxiv.org/pdf/2204.06160.pdf)  |[Pytorch](https://github.com/RenYurui/
+Neural- Texture- Extraction- Distribution)
 
 
 # Other paper
@@ -39,10 +41,9 @@ DBT | CVPR 2022 | [Exploring Dual-task Correlation for Pose Guided Person Image 
 ## Survey
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
 
-## arxiv
-2022.04 [Neural Texture Extraction and Distribution for ControllablePerson Image Synthesis](https://arxiv.org/pdf/2204.06160.pdf) [ https://github.com/RenYurui/
-Neural- Texture- Extraction- Distribution)
+## arxiv 
 2022.02 [Multi-scale Attention Guided Pose Transfer](https://arxiv.org/pdf/2202.06777) [code](https://github.com/prasunroy/pose-transfer)
+
 2021.12 [FDA-GAN: Flow-based Dual Attention GAN for Human Pose Transfer ](https://arxiv.org/pdf/2112.00281)
 
 2021.12 [GLocal: Global Graph Reasoning and Local Structure Transfer for Person Image Generation](https://arxiv.org/pdf/2112.00263)
