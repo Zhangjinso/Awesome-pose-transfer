@@ -33,12 +33,13 @@ PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](ht
 M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency| [project page](https://ps.is.mpg.de/research_projects/neural-rendering)|
 DBT | CVPR 2022 | [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/pdf/2203.02910.pdf) | [Pytorch](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network)
 NTED | CVPR 2022 | [Neural Texture Extraction and Distribution for ControllablePerson Image Synthesis](https://arxiv.org/pdf/2204.06160.pdf)  |[Pytorch](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution)
-
+DynaST | ECCV 2022 | [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124v1) |[Pytorch](https://github.com/Huage001/DynaST) 
 
 # Other paper
 
 ## Survey
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
+
 
 ## arxiv 
 2022.02 [Multi-scale Attention Guided Pose Transfer](https://arxiv.org/pdf/2202.06777) [code](https://github.com/prasunroy/pose-transfer)
