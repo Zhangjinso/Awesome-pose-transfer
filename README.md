@@ -43,6 +43,8 @@ CASD | ECCV 2022 | [Cross Attention Based Style Distribution for Controllable Pe
 
 
 ## arxiv 
+2022.11 [Person Image Synthesis via Denoising Diffusion Model](https://arxiv.org/pdf/2211.12500.pdf)
+
 2022.02 [Multi-scale Attention Guided Pose Transfer](https://arxiv.org/pdf/2202.06777) [code](https://github.com/prasunroy/pose-transfer)
 
 2021.12 [FDA-GAN: Flow-based Dual Attention GAN for Human Pose Transfer ](https://arxiv.org/pdf/2112.00281)
