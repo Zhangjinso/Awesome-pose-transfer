@@ -40,7 +40,7 @@ CASD | ECCV 2022 | [Cross Attention Based Style Distribution for Controllable Pe
 
 ## Survey
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
-
+2022.12 [Human Image Generation: A Comprehensive Survey](https://arxiv.org/abs/2212.08896.pdf)
 
 ## arxiv 
 2022.11 [Person Image Synthesis via Denoising Diffusion Model](https://arxiv.org/pdf/2211.12500.pdf)
