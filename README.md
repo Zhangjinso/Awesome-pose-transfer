@@ -43,11 +43,17 @@ CASD | ECCV 2022 | [Cross Attention Based Style Distribution for Controllable Pe
 2022.12 [Human Image Generation: A Comprehensive Survey](https://arxiv.org/abs/2212.08896.pdf)
 
 ## arxiv 
+2023.04 [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870)
+
+2023.04 [Human pose transfer via shape-aware partial flow prediction network](https://link.springer.com/article/10.1007/s00530-023-01089-8)
+
+2023.04 [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://arxiv.org/abs/2304.04269)
+
 2022.11 [VGFlow: Visibility guided Flow Network for Human Reposing](https://arxiv.org/pdf/2211.08540)
 
 2022.11 [Person Image Synthesis via Denoising Diffusion Model](https://arxiv.org/pdf/2211.12500.pdf)
 
-2022.10 [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures ](Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures )
+2022.10 [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures](Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures)
 
 2022.02 [Multi-scale Attention Guided Pose Transfer](https://arxiv.org/pdf/2202.06777) [code](https://github.com/prasunroy/pose-transfer)
 
