@@ -1,48 +1,55 @@
 # Awesome-pose-transfer
+
 A collection of papers and codes for human pose transfer
 
 # Methods
-Model | Published | Paper | Codes 
----- | ---- | ---- | ----
-Ma et al. | NIPS 17 | [ Pose Guided Person Image Generation](https://papers.nips.cc/paper/6644-pose-guided-person-image-generation.pdf) | [Tensorflow](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) [Pytorch](https://github.com/harshitbansal05/Pose-Guided-Image-Generation)
-Ma et al. | CVPR 18 | [Disentangled Person Image Generation](http://homes.esat.kuleuven.be/~liqianma/pdf/CVPR18_Ma_Disentangled_Person_Image_Generation.pdf) | [Tensorflow](https://github.com/charliememory/Disentangled-Person-Image-Generation)
-VUNet | CVPR 18 | [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/images/vunet.pdf) | [Tensorflow](https://github.com/CompVis/vunet) [Pytorch](https://github.com/jhaux/VUNet)
-DeformGan | CVPR 18 | [Deformable GANs for Pose-based Human Image Generation](https://arxiv.org/abs/1801.00055) | [Tensorflow](https://github.com/AliaksandrSiarohin/pose-gan) [Pytorch](https://github.com/ssfootball04/pose-transfer)
-Song et al. | CVPR 19 | [Unsupervised Person Image Generation with Semantic Parsing Transformation](https://arxiv.org/abs/1904.03379) | [Pytorch](https://github.com/SijieSong/person_generation_spt)
-PATN | CVPR 19 |  [Progressive Pose Attention for Person Image Generation](http://arxiv.org/abs/1904.03349) | [Pytorch](https://github.com/tengteng95/Pose-Transfer)
-Li et al. | CVPR 19 | [Dense Intrinsic Appearance Flow for Human Pose Transfer](http://mmlab.ie.cuhk.edu.hk/projects/pose-transfer/) | [Pytorch](https://github.com/ly015/intrinsic_flow)
-LWG | ICCV 19 | [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.pdf) | [Pytorch](https://github.com/svip-lab/impersonator)
-Guided-pix2pix| ICCV 19 | [Guided Image-to-Image Translation with Bi-Directional Feature Transformation](https://filebox.ece.vt.edu/~Badour/guided_pix2pix.pdf)| [Pytorch](https://github.com/vt-vl-lab/Guided-pix2pix?tdsourcetag=s_pctim_aiomsg)
-BiGraphGAN | BMVC 20 | [Bipartite Graph Reasoning GANs for Person Image Generation](https://arxiv.org/abs/2008.04381)|[Pytorch](https://github.com/Ha0Tang/BiGraphGAN)
-GFLA | CVPR 20 | [Deep Image Spatial Transformation for Person Image Generation](https://arxiv.org/abs/2003.00696) | [Pytorch](https://github.com/RenYurui/Global-Flow-Local-Attention)
-ADGan | CVPR 20 | [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://arxiv.org/abs/2003.12267) | [Pytorch](https://github.com/menyifang/ADGAN)
-CoCosNet | CVPR 20 | [Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/abs/2004.05571) | [Pytorch](https://github.com/microsoft/CoCosNet)
-Repose | CVPRW 20 | [Reposing Humans by Warping 3D Features](https://arxiv.org/pdf/2006.04898.pdf) | [Tensorflow](https://github.com/MKnoche/warp3d_reposing/blob/master/train.py)
-Pose Stylizer | IJCAI 20 | [Generating Person Images with Appearance-aware Pose Stylizer](https://arxiv.org/pdf/2007.09077.pdf) | [pytorch](https://github.com/siyuhuang/PoseStylizer)
-PINet | PG 20| [Human Pose Transfer by Adaptive Hierarchical Deformation]() | [pytorch](https://github.com/Zhangjinso/PINet_PG)
-XingGan | ECCV 20 | [XingGAN for Person Image Generation](https://arxiv.org/abs/2007.09278) | [pytorch](https://github.com/Ha0Tang/XingGAN)
-LWG | TPAMI 20 | [Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis](https://arxiv.org/abs/2011.09055v1) | [pytorch](https://github.com/iPERDance/iPERCore)
-SCAGAN | ICME 21|[SPATIAL CONTENT ALIGNMENT FOR POSE TRANSFER](https://arxiv.org/pdf/2103.16828.pdf) |[Pytorch](https://github.com/rocketappslab/SCA-GAN)
-PISE | CVPR 21| [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023) | [pytorch](https://github.com/Zhangjinso/PISE)
-RAN | CVPR 21 | [Learning Semantic Person Image Generation by Region-Adaptive Normalization]()| [pytorch](https://github.com/cszy98/SPGNet)
-FGTBN | CVPR 21 | [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/pdf/2106.07771.pdf) | 
-MRAA | CVPR 21 | [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) | [pytorch](https://github.com/snap-research/articulated-animation)
-Pose with style| SIGGRAPG ASIA 2021 | [Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN ](https://arxiv.org/pdf/2109.06166) | [project page](https://pose-with-style.github.io/) 
-SATT | TIP 2021 | [Spatial-Aware Texture Transformer for High-Fidelity Garment Transfer](https://ieeexplore.ieee.org/document/9525061) | 
-PoT-GAN | TIP 2021 | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](https://ieeexplore.ieee.org/document/9524559) | 
-M. J. Black et al.| ICCV 2021 | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency| [project page](https://ps.is.mpg.de/research_projects/neural-rendering)|
-DBT | CVPR 2022 | [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/pdf/2203.02910.pdf) | [Pytorch](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network)
-NTED | CVPR 2022 | [Neural Texture Extraction and Distribution for ControllablePerson Image Synthesis](https://arxiv.org/pdf/2204.06160.pdf)  |[Pytorch](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution)
-DynaST | ECCV 2022 | [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124v1) |[Pytorch](https://github.com/Huage001/DynaST) 
-CASD | ECCV 2022 | [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/pdf/2208.00712.pdf) | [pytorch](https://github.com/xyzhouo/CASD)
-UPGPT | ICCVW 2023 | [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870) | [Pytorch](https://github.com/soon-yau/upgpt) 
+
+| Model              | Published          | Paper                                                        | Codes                                                        |
+| ------------------ | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Ma et al.          | NIPS 17            | [ Pose Guided Person Image Generation](https://papers.nips.cc/paper/6644-pose-guided-person-image-generation.pdf) | [Tensorflow](https://github.com/charliememory/Pose-Guided-Person-Image-Generation) [Pytorch](https://github.com/harshitbansal05/Pose-Guided-Image-Generation) |
+| Ma et al.          | CVPR 18            | [Disentangled Person Image Generation](http://homes.esat.kuleuven.be/~liqianma/pdf/CVPR18_Ma_Disentangled_Person_Image_Generation.pdf) | [Tensorflow](https://github.com/charliememory/Disentangled-Person-Image-Generation) |
+| VUNet              | CVPR 18            | [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/images/vunet.pdf) | [Tensorflow](https://github.com/CompVis/vunet) [Pytorch](https://github.com/jhaux/VUNet) |
+| DeformGan          | CVPR 18            | [Deformable GANs for Pose-based Human Image Generation](https://arxiv.org/abs/1801.00055) | [Tensorflow](https://github.com/AliaksandrSiarohin/pose-gan) [Pytorch](https://github.com/ssfootball04/pose-transfer) |
+| Song et al.        | CVPR 19            | [Unsupervised Person Image Generation with Semantic Parsing Transformation](https://arxiv.org/abs/1904.03379) | [Pytorch](https://github.com/SijieSong/person_generation_spt) |
+| PATN               | CVPR 19            | [Progressive Pose Attention for Person Image Generation](http://arxiv.org/abs/1904.03349) | [Pytorch](https://github.com/tengteng95/Pose-Transfer)       |
+| Li et al.          | CVPR 19            | [Dense Intrinsic Appearance Flow for Human Pose Transfer](http://mmlab.ie.cuhk.edu.hk/projects/pose-transfer/) | [Pytorch](https://github.com/ly015/intrinsic_flow)           |
+| LWG                | ICCV 19            | [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.pdf) | [Pytorch](https://github.com/svip-lab/impersonator)          |
+| Guided-pix2pix     | ICCV 19            | [Guided Image-to-Image Translation with Bi-Directional Feature Transformation](https://filebox.ece.vt.edu/~Badour/guided_pix2pix.pdf) | [Pytorch](https://github.com/vt-vl-lab/Guided-pix2pix?tdsourcetag=s_pctim_aiomsg) |
+| BiGraphGAN         | BMVC 20            | [Bipartite Graph Reasoning GANs for Person Image Generation](https://arxiv.org/abs/2008.04381) | [Pytorch](https://github.com/Ha0Tang/BiGraphGAN)             |
+| GFLA               | CVPR 20            | [Deep Image Spatial Transformation for Person Image Generation](https://arxiv.org/abs/2003.00696) | [Pytorch](https://github.com/RenYurui/Global-Flow-Local-Attention) |
+| ADGan              | CVPR 20            | [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://arxiv.org/abs/2003.12267) | [Pytorch](https://github.com/menyifang/ADGAN)                |
+| CoCosNet           | CVPR 20            | [Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/abs/2004.05571) | [Pytorch](https://github.com/microsoft/CoCosNet)             |
+| Repose             | CVPRW 20           | [Reposing Humans by Warping 3D Features](https://arxiv.org/pdf/2006.04898.pdf) | [Tensorflow](https://github.com/MKnoche/warp3d_reposing/blob/master/train.py) |
+| Pose Stylizer      | IJCAI 20           | [Generating Person Images with Appearance-aware Pose Stylizer](https://arxiv.org/pdf/2007.09077.pdf) | [pytorch](https://github.com/siyuhuang/PoseStylizer)         |
+| PINet              | PG 20              | [Human Pose Transfer by Adaptive Hierarchical Deformation]() | [pytorch](https://github.com/Zhangjinso/PINet_PG)            |
+| XingGan            | ECCV 20            | [XingGAN for Person Image Generation](https://arxiv.org/abs/2007.09278) | [pytorch](https://github.com/Ha0Tang/XingGAN)                |
+| LWG                | TPAMI 20           | [Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis](https://arxiv.org/abs/2011.09055v1) | [pytorch](https://github.com/iPERDance/iPERCore)             |
+| SCAGAN             | ICME 21            | [SPATIAL CONTENT ALIGNMENT FOR POSE TRANSFER](https://arxiv.org/pdf/2103.16828.pdf) | [Pytorch](https://github.com/rocketappslab/SCA-GAN)          |
+| PISE               | CVPR 21            | [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023) | [pytorch](https://github.com/Zhangjinso/PISE)                |
+| RAN                | CVPR 21            | [Learning Semantic Person Image Generation by Region-Adaptive Normalization]() | [pytorch](https://github.com/cszy98/SPGNet)                  |
+| FGTBN              | CVPR 21            | [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/pdf/2106.07771.pdf) |                                                              |
+| MRAA               | CVPR 21            | [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) | [pytorch](https://github.com/snap-research/articulated-animation) |
+| Pose with style    | SIGGRAPG ASIA 2021 | [Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN ](https://arxiv.org/pdf/2109.06166) | [project page](https://pose-with-style.github.io/)           |
+| SATT               | TIP 2021           | [Spatial-Aware Texture Transformer for High-Fidelity Garment Transfer](https://ieeexplore.ieee.org/document/9525061) |                                                              |
+| PoT-GAN            | TIP 2021           | [PoT-GAN: Pose Transform GAN for Person Image Synthesis](https://ieeexplore.ieee.org/document/9524559) |                                                              |
+| M. J. Black et al. | ICCV 2021          | Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency | [project page](https://ps.is.mpg.de/research_projects/neural-rendering) |
+| DBT                | CVPR 2022          | [Exploring Dual-task Correlation for Pose Guided Person Image Generation](https://arxiv.org/pdf/2203.02910.pdf) | [Pytorch](https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network) |
+| NTED               | CVPR 2022          | [Neural Texture Extraction and Distribution for ControllablePerson Image Synthesis](https://arxiv.org/pdf/2204.06160.pdf) | [Pytorch](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution) |
+| DynaST             | ECCV 2022          | [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124v1) | [Pytorch](https://github.com/Huage001/DynaST)                |
+| CASD               | ECCV 2022          | [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/pdf/2208.00712.pdf) | [pytorch](https://github.com/xyzhouo/CASD)                   |
+| PIDM               | CVPR 2023          | [Person Image Synthesis via Denoising Diffusion Model]()     | [pytorch](https://github.com/ankanbhunia/PIDM)               |
+| WaveIPT            | ICCV 2023          | WaveIPT: Joint Attention and Flow Alignment in the Wavelet domain for Pose Transfer |                                                              |
+| UPGPT              | ICCVW 2023         | [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870) | [Pytorch](https://github.com/soon-yau/upgpt)                 |
+
 # Other paper
 
 ## Survey
+
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
 2022.12 [Human Image Generation: A Comprehensive Survey](https://arxiv.org/abs/2212.08896.pdf)
 
 ## arxiv 
+
 2023.04 [Human pose transfer via shape-aware partial flow prediction network](https://link.springer.com/article/10.1007/s00530-023-01089-8)
 
 2023.04 [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://arxiv.org/abs/2304.04269)
@@ -90,17 +97,21 @@ UPGPT | ICCVW 2023 | [UPGPT: Universal Diffusion Model for Person Image Generati
 [Wish YouWere Here: Context-Aware Human Generation](https://arxiv.org/abs/2005.10663)
 
 ## ECCV 2020
+
 [Neural Re-Rendering of Humans from a single image](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf)
 
 ## AAAI 2021
+
 [Structure-aware Person Image Generation with Pose Decomposition and Semantic Correlation](https://arxiv.org/pdf/2102.02972.pdf)
 
 ## CVPR 2021
+
 [Pose-Guided Human Animation from a Single Image in the Wild](https://arxiv.org/pdf/2012.03796.pdf)
 
 [HumanGAN: A Generative Model of Human Images]()
 
 ## ICIP 2020 
+
 [POSE GUIDED PERSON IMAGE GENERATION WITH HIDDEN P-NORM REGRESSION](https://arxiv.org/pdf/2102.10033.pdf)
 
 
