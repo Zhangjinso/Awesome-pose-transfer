@@ -35,7 +35,7 @@ DBT | CVPR 2022 | [Exploring Dual-task Correlation for Pose Guided Person Image 
 NTED | CVPR 2022 | [Neural Texture Extraction and Distribution for ControllablePerson Image Synthesis](https://arxiv.org/pdf/2204.06160.pdf)  |[Pytorch](https://github.com/RenYurui/Neural-Texture-Extraction-Distribution)
 DynaST | ECCV 2022 | [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124v1) |[Pytorch](https://github.com/Huage001/DynaST) 
 CASD | ECCV 2022 | [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/pdf/2208.00712.pdf) | [pytorch](https://github.com/xyzhouo/CASD)
-
+UPGPT | ICCVW 2023 | [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870) | [Pytorch](https://github.com/soon-yau/upgpt) 
 # Other paper
 
 ## Survey
@@ -43,8 +43,6 @@ CASD | ECCV 2022 | [Cross Attention Based Style Distribution for Controllable Pe
 2022.12 [Human Image Generation: A Comprehensive Survey](https://arxiv.org/abs/2212.08896.pdf)
 
 ## arxiv 
-2023.04 [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870)
-
 2023.04 [Human pose transfer via shape-aware partial flow prediction network](https://link.springer.com/article/10.1007/s00530-023-01089-8)
 
 2023.04 [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://arxiv.org/abs/2304.04269)
