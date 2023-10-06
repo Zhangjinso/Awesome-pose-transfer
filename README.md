@@ -38,7 +38,8 @@ A collection of papers and codes for human pose transfer
 | DynaST             | ECCV 2022          | [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124v1) | [Pytorch](https://github.com/Huage001/DynaST)                |
 | CASD               | ECCV 2022          | [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/pdf/2208.00712.pdf) | [pytorch](https://github.com/xyzhouo/CASD)                   |
 | PIDM               | CVPR 2023          | [Person Image Synthesis via Denoising Diffusion Model]()     | [pytorch](https://github.com/ankanbhunia/PIDM)               |
-| WaveIPT            | ICCV 2023          | WaveIPT: Joint Attention and Flow Alignment in the Wavelet domain for Pose Transfer |                                                              |
+| WaveIPT            | ICCV 2023          | [WaveIPT: Joint Attention and Flow Alignment in the Wavelet domain for Pose Transfer](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_WaveIPT_Joint_Attention_and_Flow_Alignment_in_the_Wavelet_domain_ICCV_2023_paper.html) |                                                             |
+|  | ICCV 2023 | [Controllable Person Image Synthesis with Pose-Constrained Latent Diffusion](https://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html) | | 
 | UPGPT              | ICCVW 2023         | [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870) | [Pytorch](https://github.com/soon-yau/upgpt)                 |
 
 # Other paper
