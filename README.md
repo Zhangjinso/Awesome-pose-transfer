@@ -41,7 +41,7 @@ A collection of papers and codes for human pose transfer
 | WaveIPT            | ICCV 2023          | [WaveIPT: Joint Attention and Flow Alignment in the Wavelet domain for Pose Transfer](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_WaveIPT_Joint_Attention_and_Flow_Alignment_in_the_Wavelet_domain_ICCV_2023_paper.html) |                                                             |
 |  | ICCV 2023 | [Controllable Person Image Synthesis with Pose-Constrained Latent Diffusion](https://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html) | | 
 | UPGPT              | ICCVW 2023         | [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870) | [Pytorch](https://github.com/soon-yau/upgpt)                 |
-| | ICCV 2023 | [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures]([Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Collecting_The_Puzzle_Pieces_Disentangled_Self-Driven_Human_Pose_Transfer_by_ICCV_2023_paper.pdf) | [Pytorch](https://github.com/NannanLi999/pt_square)
+| | ICCV 2023 | [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Collecting_The_Puzzle_Pieces_Disentangled_Self-Driven_Human_Pose_Transfer_by_ICCV_2023_paper.pdf) | [Pytorch](https://github.com/NannanLi999/pt_square)
 
 # Other paper
 
@@ -52,6 +52,7 @@ A collection of papers and codes for human pose transfer
 
 ## arxiv 
 2023.10 [ADVANCING POSE-GUIDED IMAGE SYNTHESIS WITH PROGRESSIVE CONDITIONAL DIFFUSION MODELS](https://github.com/muzishen/PCDMs)
+
 2023.04 [Human pose transfer via shape-aware partial flow prediction network](https://link.springer.com/article/10.1007/s00530-023-01089-8)
 
 2023.04 [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://arxiv.org/abs/2304.04269)
