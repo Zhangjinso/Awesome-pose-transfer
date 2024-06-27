@@ -42,14 +42,21 @@ A collection of papers and codes for human pose transfer
 | WaveIPT            | ICCV 2023          | [WaveIPT: Joint Attention and Flow Alignment in the Wavelet domain for Pose Transfer](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_WaveIPT_Joint_Attention_and_Flow_Alignment_in_the_Wavelet_domain_ICCV_2023_paper.html) |                                                             |
 |  | ICCV 2023 | [Controllable Person Image Synthesis with Pose-Constrained Latent Diffusion](https://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html) | | 
 | UPGPT              | ICCVW 2023         | [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870) | [Pytorch](https://github.com/soon-yau/upgpt)                 |
-| | ICCV 2023 | [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Collecting_The_Puzzle_Pieces_Disentangled_Self-Driven_Human_Pose_Transfer_by_ICCV_2023_paper.pdf) | [Pytorch](https://github.com/NannanLi999/pt_square)
+| | ICCV 2023 | [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Collecting_The_Puzzle_Pieces_Disentangled_Self-Driven_Human_Pose_Transfer_by_ICCV_2023_paper.pdf) | [Pytorch](https://github.com/NannanLi999/pt_square) ||
+| | ICLR 2024 | [Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models](https://arxiv.org/abs/2310.06313) | [PyTorch](https://github.com/tencent-ailab/PCDMs) ||
+| CFLD | CVPR 2024 | [Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Coarse-to-Fine_Latent_Diffusion_for_Pose-Guided_Person_Image_Synthesis_CVPR_2024_paper.pdf) | [PyTorch](https://github.com/YanzuoLu/CFLD) ||
+
 
 # Other paper
 
 ## Survey
 
 2021.09 [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/pdf/2109.02081.pdf)
+
 2022.12 [Human Image Generation: A Comprehensive Survey](https://arxiv.org/abs/2212.08896.pdf)
+
+2024 ACM Computing Surveys [Appearance and Pose-guided Human Generation: A Survey](https://dl.acm.org/doi/full/10.1145/3637060)
+
 
 ## arxiv 
 2023.10 [ADVANCING POSE-GUIDED IMAGE SYNTHESIS WITH PROGRESSIVE CONDITIONAL DIFFUSION MODELS](https://github.com/muzishen/PCDMs)
