@@ -40,11 +40,19 @@ A collection of papers and codes for human pose transfer
 | PIDM               | CVPR 2023          | [Person Image Synthesis via Denoising Diffusion Model]()     | [pytorch](https://github.com/ankanbhunia/PIDM)               |
 | VGFlow               | CVPR 2023          | [VGFlow: Visibility Guided Flow Network for Human Reposing](https://openaccess.thecvf.com/content/CVPR2023/html/Jain_VGFlow_Visibility_Guided_Flow_Network_for_Human_Reposing_CVPR_2023_paper.html)     | [project page](https://mdsrlab.github.io/2023/03/17/VGFlow-CVPR.html)      |
 | WaveIPT            | ICCV 2023          | [WaveIPT: Joint Attention and Flow Alignment in the Wavelet domain for Pose Transfer](https://openaccess.thecvf.com/content/ICCV2023/html/Ma_WaveIPT_Joint_Attention_and_Flow_Alignment_in_the_Wavelet_domain_ICCV_2023_paper.html) |                                                             |
-|  | ICCV 2023 | [Controllable Person Image Synthesis with Pose-Constrained Latent Diffusion](https://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html) | | 
+|  | ICCV 2023 | [Controllable Person Image Synthesis with Pose-Constrained Latent Diffusion](https://openaccess.thecvf.com/content/ICCV2023/html/Han_Controllable_Person_Image_Synthesis_with_Pose-Constrained_Latent_Diffusion_ICCV_2023_paper.html) | |
 | UPGPT              | ICCVW 2023         | [UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer](https://arxiv.org/abs/2304.08870) | [Pytorch](https://github.com/soon-yau/upgpt)                 |
-| | ICCV 2023 | [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Collecting_The_Puzzle_Pieces_Disentangled_Self-Driven_Human_Pose_Transfer_by_ICCV_2023_paper.pdf) | [Pytorch](https://github.com/NannanLi999/pt_square) ||
-| | ICLR 2024 | [Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models](https://arxiv.org/abs/2310.06313) | [PyTorch](https://github.com/tencent-ailab/PCDMs) ||
-| CFLD | CVPR 2024 | [Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Coarse-to-Fine_Latent_Diffusion_for_Pose-Guided_Person_Image_Synthesis_CVPR_2024_paper.pdf) | [PyTorch](https://github.com/YanzuoLu/CFLD) ||
+| | ICCV 2023 | [Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Collecting_The_Puzzle_Pieces_Disentangled_Self-Driven_Human_Pose_Transfer_by_ICCV_2023_paper.pdf) | [Pytorch](https://github.com/NannanLi999/pt_square) |
+| | ICLR 2024 | [Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models](https://arxiv.org/abs/2310.06313) | [PyTorch](https://github.com/tencent-ailab/PCDMs) |
+| CFLD | CVPR 2024 | [Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Coarse-to-Fine_Latent_Diffusion_for_Pose-Guided_Person_Image_Synthesis_CVPR_2024_paper.pdf) | [PyTorch](https://github.com/YanzuoLu/CFLD) |
+|  | NIPS 2024 | [IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation](https://openreview.net/pdf?id=6IyYa4gETN) | [PyTorch](https://github.com/muzishen/IMAGPose) |
+|  | CVPR 2025 | [Multi-focal Conditioned Latent Diffusion for Person Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Multi-focal_Conditioned_Latent_Diffusion_for_Person_Image_Synthesis_CVPR_2025_paper.html) | [PyTorch]([jqliu09/MCLD: [CVPR 2025\] Multi-focal Conditioned Latent Diffusion for Person Image Synthesis](https://github.com/jqliu09/MCLD/tree/main)) |
+|  | CVPR 2025 | [Disentangled Pose and Appearance Guidance for Multi-Pose Generation]([Disentangled Pose and Appearance Guidance for Multi-Pose Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Disentangled_Pose_and_Appearance_Guidance_for_Multi-Pose_Generation_CVPR_2025_paper.pdf)) |  |
+
+
+
+
+
 
 
 # Other paper
