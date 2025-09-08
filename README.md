@@ -48,6 +48,11 @@ A collection of papers and codes for human pose transfer
 |  | NIPS 2024 | [IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation](https://openreview.net/pdf?id=6IyYa4gETN) | [PyTorch](https://github.com/muzishen/IMAGPose) |
 |  | CVPR 2025 | [Multi-focal Conditioned Latent Diffusion for Person Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Multi-focal_Conditioned_Latent_Diffusion_for_Person_Image_Synthesis_CVPR_2025_paper.html) | [PyTorch]([jqliu09/MCLD: [CVPR 2025\] Multi-focal Conditioned Latent Diffusion for Person Image Synthesis](https://github.com/jqliu09/MCLD/tree/main)) |
 |  | CVPR 2025 | [Disentangled Pose and Appearance Guidance for Multi-Pose Generation]([Disentangled Pose and Appearance Guidance for Multi-Pose Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Disentangled_Pose_and_Appearance_Guidance_for_Multi-Pose_Generation_CVPR_2025_paper.pdf)) |  |
+| LEFFA | CVPR 2025 | [Learning Flow Fields in Attention for Controllable Person Image Generation]([Learning Flow Fields in Attention for Controllable Person Image Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Learning_Flow_Fields_in_Attention_for_Controllable_Person_Image_Generation_CVPR_2025_paper.pdf)) | [PyTorch]([leffaai/leffa](https://github.com/leffaai/leffa)) |
+
+
+
+
 
 
 
