@@ -72,6 +72,9 @@ A collection of papers and codes for human pose transfer
 
 
 ## arxiv 
+
+2025.01 [Can Pose Transfer Models Generate Realistic Human Motion?](https://arxiv.org/abs/2501.15648)
+
 2023.10 [ADVANCING POSE-GUIDED IMAGE SYNTHESIS WITH PROGRESSIVE CONDITIONAL DIFFUSION MODELS](https://github.com/muzishen/PCDMs)
 
 2023.04 [Human pose transfer via shape-aware partial flow prediction network](https://link.springer.com/article/10.1007/s00530-023-01089-8)
